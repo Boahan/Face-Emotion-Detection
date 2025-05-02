@@ -1,8 +1,3 @@
-Here's a **concise one-page version** of your `README.md`—ideal for quick reference or GitHub display:
-
----
-
-````markdown
 # 😊 Face Emotion Detection
 
 A real-time facial emotion detection system using **CNN** and **OpenCV**, capable of recognizing 7 human emotions through webcam input.
